@@ -8,7 +8,7 @@
 ✔ BEP20 (BNB Smart Chain)  
 
 # 💬 Official Telegram: [t.me/flashanthony](https://t.me/flashanthony)
-# 💬 Official What'sApp [https://wa.me/+12498983137](https://wa.me/+12498983137)
+# 💬 Official WhatsApp: [https://wa.me/+12498983137](https://wa.me/+12498983137)
 
 ## 🌟 Why Choose FlashUSDT?
 - ✅ Fast Transactions: Instant USDT delivery.
@@ -54,7 +54,7 @@ npm start
 
 ## 📞 Contact Us
 # - 💬 Telegram: https://t.me/flashanthony
-# - 🌐 What'sApp: https://wa.me/+12498983137
+# - 🌐 WhatsApp: https://wa.me/+12498983137
 
 ## ⚠️ Disclaimer
 This project is for **educational purposes only**.
