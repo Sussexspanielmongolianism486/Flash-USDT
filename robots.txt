@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://lucaas6.github.io/Flash-USDT/sitemap.xml
